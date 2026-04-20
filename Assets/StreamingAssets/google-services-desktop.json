@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65231756735",
+    "project_id": "tripleofferproject",
+    "storage_bucket": "tripleofferproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65231756735:android:811b1af7daf401354e950a",
+        "android_client_info": {
+          "package_name": "com.MyCompany.tripleoffer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwxyV2Q3HttsFZHxHWWTfMKskTgeEuVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

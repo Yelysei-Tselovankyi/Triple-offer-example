@@ -1,0 +1,39 @@
+{
+  "Offers": [
+    {
+      "Id": "offer_1",
+      "OfferData": {
+        "OfferDescription": "Small starter pack with basic resources",
+        "OfferPrice": 0.99
+      }
+    },
+    {
+      "Id": "offer_2",
+      "OfferData": {
+        "OfferDescription": "Medium pack with rare items",
+        "OfferPrice": 4.99
+      }
+    },
+    {
+      "Id": "offer_3",
+      "OfferData": {
+        "OfferDescription": "Big pack with epic loot",
+        "OfferPrice": 9.99
+      }
+    },
+    {
+      "Id": "offer_4",
+      "OfferData": {
+        "OfferDescription": "Special event offer",
+        "OfferPrice": 2.49
+      }
+    },
+    {
+      "Id": "offer_5",
+      "OfferData": {
+        "OfferDescription": "Legendary premium bundle",
+        "OfferPrice": 19.99
+      }
+    }
+  ]
+}

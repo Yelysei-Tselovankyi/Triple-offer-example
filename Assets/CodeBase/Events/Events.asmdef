@@ -1,0 +1,19 @@
+{
+    "name": "TripleOffer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:79edabc652f6c5045a1c667bdcce7e93",
+        "GUID:489f59a8349d4e8baad9707916978c99",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
