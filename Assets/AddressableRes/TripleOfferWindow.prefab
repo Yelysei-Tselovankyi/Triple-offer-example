@@ -514,10 +514,10 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_HighlightedColor: {r: 0.90188676, g: 0.90188676, b: 0.90188676, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.7433963, g: 0.7433963, b: 0.7433963, a: 1}
+    m_DisabledColor: {r: 0.8415094, g: 0.8415094, b: 0.8415094, a: 0.74509805}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -560,7 +560,7 @@ PrefabInstance:
     - target: {fileID: 1624650587220892002, guid: 880708a4726f53542a8b4616aa80e6ee, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 66ec0441f99d4014db22b52a12e24240, type: 3}
+      objectReference: {fileID: 21300000, guid: f0af6a2887e45514891548f112f06336, type: 3}
     - target: {fileID: 2172058623988220973, guid: 880708a4726f53542a8b4616aa80e6ee, type: 3}
       propertyPath: m_Name
       value: OfferElement (1)
@@ -681,7 +681,7 @@ PrefabInstance:
     - target: {fileID: 1624650587220892002, guid: 880708a4726f53542a8b4616aa80e6ee, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 868a52a7bd516d5428822766d6ce8f58, type: 3}
+      objectReference: {fileID: 21300000, guid: 87b1bfdc8bf9e024787b2b0dd458f6b4, type: 3}
     - target: {fileID: 2172058623988220973, guid: 880708a4726f53542a8b4616aa80e6ee, type: 3}
       propertyPath: m_Name
       value: OfferElement (2)
