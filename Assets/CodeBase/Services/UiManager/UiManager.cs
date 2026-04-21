@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using CodeBase.Core.ScriptableObjects.Events;
 using CodeBase.Core.UI;
-using CodeBase.Services.ResourcesProvider;
+using CodeBase.Services.AssetProvider;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.AddressableAssets;

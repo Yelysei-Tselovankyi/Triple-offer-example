@@ -6,7 +6,7 @@ using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using Object = UnityEngine.Object;
 
-namespace CodeBase.Services.ResourcesProvider
+namespace CodeBase.Services.AssetProvider
 {
     public class AddressableAssetProvider : IAddressableAssetProvider
     {

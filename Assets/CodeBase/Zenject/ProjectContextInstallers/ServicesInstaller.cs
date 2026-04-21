@@ -1,8 +1,8 @@
+using CodeBase.Services.AssetProvider;
 using CodeBase.Services.ConfigService;
 using CodeBase.Services.OffersService;
 using CodeBase.Services.ProgressService;
 using CodeBase.Services.PurchaseService;
-using CodeBase.Services.ResourcesProvider;
 using CodeBase.Services.Timer;
 using CodeBase.Services.UiManager;
 using Zenject;

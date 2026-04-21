@@ -3,7 +3,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace CodeBase.Core.Bootstrap.Editor
+namespace CodeBase.Editor
 {
     [InitializeOnLoad]
     public static class BootstrapLoaderEditor

@@ -1,8 +1,8 @@
-﻿using UnityEditor;
+﻿using System.IO;
+using UnityEditor;
 using UnityEngine;
-using System.IO;
 
-namespace CodeBase.Services.ProgressService.Editor
+namespace CodeBase.Editor
 {
     public static class ClearProgressEditor
     {
