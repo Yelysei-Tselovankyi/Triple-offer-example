@@ -36,7 +36,7 @@ namespace CodeBase.Services.Timer
                 }
 
                 var secondsRemaining = remaining.TotalSeconds;
-                Debug.Log(secondsRemaining);
+                Debug.Log("[Timer] Seconds remaining: " + secondsRemaining);
                 await UniTask.Delay(TimeSpan.FromSeconds(secondsRemaining), cancellationToken: _cts.Token);
 
                 IsRunning = false;
