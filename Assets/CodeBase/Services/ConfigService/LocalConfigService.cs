@@ -42,7 +42,6 @@ namespace CodeBase.Services.ConfigService
                 return request.downloadHandler.text;
             }
 #else
-            // Для других платформ: обычный File.ReadAllText, обёрнутый в UniTask
             if (!File.Exists(path))
             {
                 throw new FileNotFoundException($"File not found: {path}");
